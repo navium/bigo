@@ -1,2 +1,2 @@
-# bigo
+# BigO
 Battle tested algorithms and data-structures for your next space-mission.
